@@ -1,1 +1,1 @@
-alert("This is in my js file");
+/*Antonio Vega Ceja, 10/10/13 */
