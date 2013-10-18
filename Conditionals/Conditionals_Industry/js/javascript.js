@@ -8,4 +8,8 @@ function fixOrder() {
     var total;
     var tax;
 
-   
+    numPrice = parseFloat(document.getElementById("cost").value);
+    tax      = parseFloat(document.getElementById("tax").value);
+    total    = parseFloat(document.getElementById("total").value);
+
+    
